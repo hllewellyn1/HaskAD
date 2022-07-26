@@ -1,7 +1,7 @@
 # HaskAD
 HaskAD (Haskell-Aided Design) is a piece of CAD software written entirely in the Haskell programming language.
 
-![Alt Text](https://github.com/hllewellyn1/HaskAD/blob/6c644b82b2ce687dbc0e78473fae55d630507fe1/HaskAD.gif)
+![Alt Text](https://github.com/hllewellyn1/HaskAD/blob/ad22c4781a0c582866a310d55123434b7ad04cce/HaskAD.gif)
 
 ## Features
 
