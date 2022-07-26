@@ -34,5 +34,5 @@ The gloss graphics library requires 'glut32.dll' to exist in the same directory 
 
 ##
 
-[![Generic badge](https://img.shields.io/badge/VERSION-0.5-<COLOR>.svg)](https://github.com/hllewellyn1/HaskAD)
+[![Generic badge](https://img.shields.io/badge/VERSION-1.0-<COLOR>.svg)](https://github.com/hllewellyn1/HaskAD)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
